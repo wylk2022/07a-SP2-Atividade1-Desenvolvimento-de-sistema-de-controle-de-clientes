@@ -1,0 +1,15 @@
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\bin\Debug\net7.0\Atividade_01.exe
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\bin\Debug\net7.0\Atividade_01.deps.json
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\bin\Debug\net7.0\Atividade_01.runtimeconfig.json
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\bin\Debug\net7.0\Atividade_01.dll
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\bin\Debug\net7.0\Atividade_01.pdb
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.csproj.AssemblyReference.cache
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.AssemblyInfoInputs.cache
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.AssemblyInfo.cs
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.csproj.CoreCompileInputs.cache
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.dll
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\refint\Atividade_01.dll
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.pdb
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\Atividade_01.genruntimeconfig.cache
+D:\Documentos\SENAI BackEnd\Aulas\10-Codificação para BackEnd\Atividades\07a_SP2_Atividade 1\Atividade_01\obj\Debug\net7.0\ref\Atividade_01.dll
